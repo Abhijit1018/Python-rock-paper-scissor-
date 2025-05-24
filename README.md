@@ -1,6 +1,3 @@
-Sure! Here's a clean and professional **`README.md`** file formatted specifically for a GitHub repository for your **Rock, Paper, Scissors Game using Hand Gestures**:
-
----
 
 ````markdown
 # 🪨 Rock, Paper, Scissors Game with Hand Gestures
