@@ -1,4 +1,3 @@
-
 ````markdown
 # 🪨 Rock, Paper, Scissors Game with Hand Gestures
 
@@ -124,3 +123,4 @@ mediapipe
 
 Let me know if you'd like help uploading it to GitHub or generating a `.gitignore` file!
 ```
+THANKS FOR VISITING 
